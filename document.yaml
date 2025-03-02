@@ -1,0 +1,12 @@
+from: markdown  # Input format
+to: pdf         # Output format
+output-file: TheProposal.pdf  # Name of the output file
+
+metadata:
+  title: "The Proposal of Textbook Marketplace"
+  author: "Webspace Innovators"
+  date: "02 March 2025"
+
+input-files:
+   usecases.md 
+   OfflineSubsystem.svg 
